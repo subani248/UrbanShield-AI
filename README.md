@@ -239,6 +239,4 @@ Comment
 
 ---
 
-## License
 
-MIT
