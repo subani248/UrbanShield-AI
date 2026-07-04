@@ -238,5 +238,7 @@ Comment
 1. Create cluster → database user → whitelist IP → get connection string
 
 ---
+## License
 
+MIT
 
